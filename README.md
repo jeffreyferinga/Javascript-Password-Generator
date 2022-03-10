@@ -1,5 +1,9 @@
 # 03 JavaScript: Password Generator
 [Deployed](https://jeffreyferinga.github.io/Javascript-Password-Generator/) 
+
+
+
+
 [Github Repo](https://github.com/jeffreyferinga/Javascript-Password-Generator)
 
 ## User Story
