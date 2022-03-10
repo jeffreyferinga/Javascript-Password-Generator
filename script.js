@@ -11,6 +11,9 @@
     if (!pLength){          //Cancels function if usere presses cancel
     return  
     }
+    if(isNaN(pLength)){
+      return
+    }
     if (pLength < 8 || pLength > 128) {
       alert("Password must be between 8 and 128 characters!");  //Tells the user they have to select a number within the given range
       return
